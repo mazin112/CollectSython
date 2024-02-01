@@ -3,13 +3,13 @@
     "description": "User bot for telegram !",
     "stack": "container",
     "logo": "https://graph.org/file/0eab2a7cc000a59535d18.png",
-    "repository": "https://github.com/rogerpq/MOTTHON",
+    "repository": "https://github.com/sythontm/CollectSython",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/rogerpq/MOTTHON",
+    "website": "https://github.com/sythontm/CollectSython",
     "env": {
         "api_id": {
             "description": "ايبي ايدي",
