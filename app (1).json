@@ -1,0 +1,45 @@
+{
+    "name": "𝐌𝐎𝐓𝐓𝐇𝐎𝐍",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://graph.org/file/0eab2a7cc000a59535d18.png",
+    "repository": "https://github.com/rogerpq/MOTTHON",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/rogerpq/MOTTHON",
+    "env": {
+        "api_id": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "api_hash": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "DEVLOO": {
+            "description": "ايـدي الـمـطور",
+            "value": "",
+            "required": true
+        },
+        "bot_token": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        },
+        "user_bot": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "",
+            "required": true
+        },
+        "id_bot": {
+            "description": "يوزر البوت",
+            "value": "",
+            "required": true
+        }
+    }
+}
