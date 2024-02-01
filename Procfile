@@ -1,1 +1,1 @@
-worker: python3 sython-telethon-cl.py
+worker: python sython-telethon-cl.py
