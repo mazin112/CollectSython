@@ -4,4 +4,4 @@ build:
 run:
   worker:
     command:
-      - python3 sythonkalb.py
+      - python3 sython-telethon-cl.py
